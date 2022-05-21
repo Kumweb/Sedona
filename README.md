@@ -2,4 +2,4 @@
 
 Вёрстка: [KumWeb](https://github.com/Kumweb)
 
-[Демо проекта](https://kumweb.github.io)
+[Демо проекта](https://kumweb.github.io/sedona/)
